@@ -7,7 +7,8 @@
 
 #### Projects
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://ai-4-all.org/)](https://ai-4-all.org/)
+[![AI4ALL](https://svg.bookmark.style/api?url=https://ai-4-all.org&mode=light&style=horizontal)](https://ai-4-all.org/)
+
 
 
 <!--
