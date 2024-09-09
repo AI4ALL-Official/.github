@@ -7,7 +7,7 @@
 
 #### Projects
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/AI4ALL-Official/Iris_Deployment)](https://github.com/AI4ALL-Official/Iris_Deployment)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/AI4ALL-Official/Iris_Deployment&mode=light&style=horizontal)](https://github.com/AI4ALL-Official/Iris_Deployment)
 
 [![AI4ALL](https://svg.bookmark.style/api?url=https://ai-4-all.org&mode=light&style=horizontal)](https://ai-4-all.org/)
 
