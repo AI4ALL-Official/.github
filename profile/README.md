@@ -3,9 +3,11 @@
 ## AI Will Change the World. Who Will Change AI?
 #### AI4ALL is transforming the pipeline of AI practitioners and creating a more inclusive, human-centered discipline.
 
+------------
 
+#### Projects
 
-
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://ai-4-all.org/)](https://ai-4-all.org/)
 
 
 <!--
