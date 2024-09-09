@@ -1,3 +1,4 @@
+![Logo][.github/profile/AI4ALL_Type_H_Orange.png]
 ## AI Will Change the World. Who Will Change AI?
 #### AI4ALL is transforming the pipeline of AI practitioners and creating a more inclusive, human-centered discipline.
 
